@@ -353,7 +353,7 @@
     "description": "Learn to sign Ansible Content Collections using a Private Automation Hub and install collections with ansible-galaxy CLI.",
     "label": "Signing Ansible Content Collections with Private Automation Hub",
     "url": "https://red.ht/aap-lab-sign-collections-with-pah"
-  }
+  },
   {
     "paths": "multiple",
     "hours": 40,
